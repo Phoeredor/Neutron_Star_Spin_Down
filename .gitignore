@@ -10,6 +10,11 @@
 .vscode/
 *.code-workspace
 
+# Python local artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
 # Wolfram Language / Mathematica temporary and autosave files
 *.nb~
 *.wl~
