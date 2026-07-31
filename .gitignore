@@ -1,0 +1,28 @@
+# Linux and macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Trash-*
+.directory
+
+# Visual Studio Code local settings
+.vscode/
+*.code-workspace
+
+# Wolfram Language / Mathematica temporary and autosave files
+*.nb~
+*.wl~
+*.m~
+*.nb.autosave
+*.wl.autosave
+*.m.autosave
+.*.nb.autosave
+.*.wl.autosave
+.*.m.autosave
+
+# Generic editor backup files
+*~
+*.bak
+*.swp
+*.swo
